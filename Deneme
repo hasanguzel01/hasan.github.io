@@ -1,0 +1,22 @@
+<html>
+<head><title>Deneme</title></head>
+<body>
+<body background="space.jpg">
+<body text=white>
+<center><h1><font face="Verdana">
+<body bgcolor=lightgrey>
+<b>-Denemedir-</b></h1></center>
+<p>&nbsp;&nbsp;&nbsp;Bu site deneme amaçlı açılmıştır.. Asıl site bu değildir!</p>
+<center><p>Deneme sitesini yapan kişi</p></center>
+<center><img src="me.jpg" width="300" height="500" alt="Örnek Resim"/></center>
+<br><br><center><video width="720" height="480" controls="controls">
+  <source src="Yeni Yol Rampası - 2.mp4" type="video/mp4" />
+  <source src="Yeni Yol Rampası - 2.ogg" type="video/ogg" />
+</video></center>
+
+<br><br><b>&nbsp;&nbsp;&nbsp;İletişim, destek ve daha fazlası için;</b></h1></center>
+<ul>
+<li><p><a href="https://www.instagram.com/_hasanguzell/" target="_blank" style=color:white>Instagram</a></p></li>
+</ul>
+</body>
+</html>
